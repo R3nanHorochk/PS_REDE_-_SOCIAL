@@ -28,6 +28,17 @@ Nome:Renan Horochk de Andrade RA:10438120
 -cidadao
 -beneficiario
 -validacao
+-Mensagem_notificacao
+-candidato
+-email
+-Habilidades
+-Recomendacoes
+-Interesses
+-Perfil
+-anexa_certidao
+-aceite
+
+
 
 
 **4. Repositorio** : https://github.com/R3nanHorochk/PS_REDE_-_SOCIAL
